@@ -205,6 +205,10 @@
 				<data>BQAmCg==</data>
 				<key>device-id</key>
 				<data>EgQAAA==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-cursormem</key>
+				<data>AACQAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -496,7 +500,8 @@
 			<string></string>
 		</dict>
 		<key>Force</key>
-		<array/>
+		<array>
+		</array>
 		<key>Patch</key>
 		<array>
 			<dict>
@@ -730,7 +735,8 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array/>
+		<array>
+		</array>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
